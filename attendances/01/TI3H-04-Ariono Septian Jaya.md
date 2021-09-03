@@ -80,6 +80,7 @@ Many enterprises are moving portions of their computing infrastructure to the pu
 changing workload demands. Others are attracted by the promise of greater efficiency and fewer wasted resources since customers pay only for what they use. Still others seek to reduce 
 spending on hardware and on-premises infrastructures.
 
+
 Private cloud
 Private cloud is a cloud environment in which all cloud infrastructure and computing resources are dedicated to, and accessible by, one customer only. Private cloud 
 combines many of the benefits of cloud computing—including elasticity, scalability, and ease of service delivery—with the access control, security, and resource customization 
