@@ -12,4 +12,3 @@ Disadvantages of Cloud Computing:
 2. can't work well on low speed connection
 3. Features may be limited
 4. The stored data may not be secure
-5. Saved data can be lost, but can be solved with backup
