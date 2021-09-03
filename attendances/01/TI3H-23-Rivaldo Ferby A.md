@@ -1,1 +1,1 @@
-https://github.com/ybrefodlavir/cloud3h.git
+1.Cloud computing is the on-demand access to computer resources located in faraway data centers controlled by cloud services through the Internet-applications, servers (physical and virtual), data storage, development tools, network operations, and so on. CSP charges a monthly fee or charges based on usage for various resources.
