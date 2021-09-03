@@ -107,3 +107,18 @@ Collaborative management: Proper communication and clear, understandable process
 sustainable.
 Security and compliance monitoring: This begins with understanding all regulatory compliance standards applicable to your industry and setting up active monitoring of all connected systems
 and cloud-based services to maintain visibility of all data exchanges between public, private, and hybrid cloud environments.
+
+## Advantages of using Cloud Computing :
+a.Reducing the cost of purchasing hardware, with cloud computing, the need for hardware can be reduced
+b.Performance can be increased as needed, the flexibility of cloud computing, one of which specifications can be increased more easily
+c.The software used is mostly open-source and has been used on various platforms
+d.Easy and fast software upgrade
+e.Virtually unlimited storage capacity
+f.Data reliability, namely minimizing data loss, because there are many systems that back up data
+g.It's easy to work with more than one individual
+h.Access to cloud computing is very easy and can be done through any platform that supports it.
+
+## Disadvantage of using Cloud Computing :
+a.Does not work well when network speed is low
+b.Available features may be limited
+c.Requires an internet connection that is always connected
