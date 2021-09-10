@@ -1,0 +1,14 @@
+Meeting 1
+
+cloud computing is a method of delivering various services over the internet. 
+The resources in question are examples of applications such as data storage, servers, databases, networks, and software.
+
+Instead of storing lots of files on your hard drive or local storage on your computer or phone, cloud-based storage lets you store files as long as you have access to the internet.
+
+Cloud computing is a popular option because it has many advantages, such as cost savings, increased productivity, speed, efficiency, performance, and security. 
+Therefore, it is not surprising that many companies or people use the cloud to store data.
+
+Types of cloud computing based on the service
+1. Software-as-a-service (SaaS) involves licensing a software application to its user. These licenses are usually granted via a pay-as-you-go or on-demand method. This type can be found in Microsoft Office's 365
+2. Infrastructure-as-a-service (IaaS) involves a method for delivering a file from the operating system to the server and storage, via IP-based connectivity as part of an on-demand service. Clients don't need to buy software or servers. Popular examples of this type are Public Cloud from Indonesian Cloud and Microsoft Azure.
+3. Platform-as-a-service (PaaS) is touted as the most complex. PaaS is almost similar to SaaS, but the biggest difference is that, instead of sending software via online, PaaS is actually a platform for creating software that is delivered over the internet. Examples of PaaS are Salesforce.com and Heroku.
