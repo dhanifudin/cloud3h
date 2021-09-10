@@ -1,0 +1,27 @@
+Oracle Cloud Infrastructure offers a wide range of products that helps build, migrate, operate, and enhance applications and workloads. 
+Here is the list of the services provided by OCI by category:
+  -	SaaS which includes webmail and ERP
+  -	PaaS which includes Java and OS, etc.
+  -	IaaS which are the OCI core services.
+The OCI Core Services list: 
+  -	Compute: consisting of 5 components (bare metal, dedicated virtual hosts, virtual machines, container engines and functions).
+  -	Storage: requires specifications (persistent/non-persistent support, multiple formats, cost effective, data protection against hardware damage, local storage and data accessibility).
+  -	Networking (VCN): which allows users to manage existing networks in a cloud environment. In this case, we can set the IP Address, create subnets and route tables, 
+  also configure the firewall. Here are some components in the VCN (subnets, Route table, Security List).
+  -	IAM (Identity and Access Management): which allows you to control who has access to the cloud resources you own, and what type of access they have, and to specific resources.
+  Its collection of interrelated resources compartment will help users to determine the access to their own resources.  
+  -	Database Cloud Service: Oracle provides an extremely fast and effective database cloud service and here’s why.
+    •	Oracle is the only public cloud that supports VM database systems, offering extremely fast provisioning.
+    •	It also supports bare metal database systems, which are known to be super-fast.
+    •	Real Application Clusters is an option for users for managing high availability and performance
+    •	The Exadata DB system, which offers extreme performance for both Online Transaction Processing (OLTP) and data warehouse applications.
+    •	The Autonomous database is built on Oracle's highly available Exadata architecture, so you can easily scale your database deployment.
+There are three models of Autonomous databases that are provided by OCI as of right now, ATP, ADW and Autonomous JSON.
+ATP is a cloud database service that removes the complexity of operating and securing high performance databases. 
+ADW is a Data Warehouse service that removes all the hassle of operating a Data Warehouse, securing data and developing data-driven applications. 
+The Oracle Autonomous JSON database is a document database that facilitates the development of JSON-centric applications.
+
+
+
+
+
