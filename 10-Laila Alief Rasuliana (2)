@@ -1,0 +1,20 @@
+============================================
+Pertemuan 2 Cloud Computing mempelajari tentang:
+1.	Kategori layanan OCI
+2.	OCI Core Services
+============================================
+Layanan cloud computing dapat dikategorikan menjadi 3 yaitu:
+1.	SaaS
+2.	PaaS
+3.	IaaS
+OCI Core Services meliputi 5 hal yaitu:
+1.	Compute
+Dapat melakukan setup pada app container dan code aplikasi.
+2.	Storage
+5 layanan penyimpanan yang didukung oleh OCI yaitu block volume, local NVME, file storage, object storage dan archive storage.
+3.	Networking
+Merupakan layanan Infrastructures as a Service (IaaS).
+4.	Identity dan Access Management (IAM)
+Dapat mengontrol siapa saja yang memiliki akses ke sumber daya cloud yang dimiliki.
+5.	Database Cloud Service
+Oracle adalah satu-satunya cloud publik yang mendukung sistem database VM, yang menawarkan penyediaan yang sangat cepat.
