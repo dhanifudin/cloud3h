@@ -26,6 +26,7 @@ Definition Of All :
         
                             - Container Engine : The service is a Container runtime environment that allows users to run Containers and manage Container Images across many nodes.
                             - Oracle Function  : A service that allows users to simply write code.
+                            
     4.Storage Model OCI
                             - Storage Services : There are 5 storage services supported by OCI, namely block volume, local NVME, file storage, object storage and archive storage.
     3.Networking        :   - VCN is a network that belongs to your virtual machine.
@@ -45,7 +46,7 @@ Definition Of All :
                                     - OCI has a choice Oracle Cluster Databases, also known as Real Application Clusters, or RAC, have been the choice for managing high availability and performance for more than 20 years.
                                     - OCI also offers the Exadata DB system, which offers extreme performance for both Online Transaction Processing (OLTP) and data warehouse applications.
                                     - OCI's latest invention is an autonomous database.
-                                    
+
 
 
 
