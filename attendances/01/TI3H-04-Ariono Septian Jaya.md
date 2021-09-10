@@ -1,4 +1,5 @@
-> Cloud computing is the on-demand access to computing resources hosted 
+## Cloud Computing
+Cloud computing is the on-demand access to computing resources hosted 
 in remote data centers managed by cloud services through the Internet-applications,
 servers (physical servers and virtual servers), data storage, development tools, 
 network functions, etc. providers (or CSP) . CSP provides these resources on a monthly 
@@ -20,7 +21,7 @@ you can expand and shrink capacity based on peaks and valleys of traffic. You ca
 cloud provider's global network to spread your application to locations closer to users around 
 the world.
 
-> CLOUD COMPUTING SERVICES :
+## CLOUD COMPUTING SERVICES :
 1.IaaS (Infrastructure-as-a-Service), PaaS (Platform-as-a-Service) , and SaaS (Software-as-a-Service)
 are the three most common models of cloud services, and it’s not uncommon for an organization to use 
 all three. However, there is often confusion among the three and what’s included with each:
@@ -65,7 +66,7 @@ application code (called functions) in response to specific events. Everything b
 management—is provisioned automatically by the cloud service provider in real-time as the code executes and is spun back down once the execution completes. Billing starts when execution 
 starts and stops when execution stops.
 
-> Types of cloud computing
+## Types of cloud computing
 Public cloud
 Public cloud is a type of cloud computing in which a cloud service provider makes computing resources—anything from SaaS applications, to individual virtual machines (VMs), 
 to bare metal computing hardware, to complete enterprise-grade infrastructures and development platforms—available to users over the public internet. These resources might be 
@@ -92,7 +93,7 @@ cloud because their workloads deal with confidential documents, intellectual pro
 By building private cloud architecture according to cloud native principles, an organization gives itself the flexibility to easily move workloads to public cloud or run them within a 
 hybrid cloud (see below) environment whenever they’re ready.
 
-> Cloud Security
+## Cloud Security
 Traditionally, security concerns have been the primary obstacle for organizations considering cloud services, particularly public cloud services. In response to demand, 
 however, the security offered by cloud service providers is steadily outstripping on-premises security solutions.
 According to security software provider McAfee, today, 52% of companies experience better security in the cloud than on-premises (link resides outside IBM). And Gartner has 
@@ -107,3 +108,18 @@ Collaborative management: Proper communication and clear, understandable process
 sustainable.
 Security and compliance monitoring: This begins with understanding all regulatory compliance standards applicable to your industry and setting up active monitoring of all connected systems
 and cloud-based services to maintain visibility of all data exchanges between public, private, and hybrid cloud environments.
+
+## Advantages of using Cloud Computing :
+a.Reducing the cost of purchasing hardware, with cloud computing, the need for hardware can be reduced
+b.Performance can be increased as needed, the flexibility of cloud computing, one of which specifications can be increased more easily
+c.The software used is mostly open-source and has been used on various platforms
+d.Easy and fast software upgrade
+e.Virtually unlimited storage capacity
+f.Data reliability, namely minimizing data loss, because there are many systems that back up data
+g.It's easy to work with more than one individual
+h.Access to cloud computing is very easy and can be done through any platform that supports it.
+
+## Disadvantage of using Cloud Computing :
+a.Does not work well when network speed is low
+b.Available features may be limited
+c.Requires an internet connection that is always connected
