@@ -1,1 +1,1 @@
-
+In today's meeting, we learned about cloud computing environment. In short, it is an advanced computing resources available on-demand, that scale as needed, with regular updates and without the need to buy and maintain an on-premise infrastructure. With cloud computing, teams become more efficient and reduce time to market as they can rapidly acquire, scale services, without the considerable effort that requires managing a traditional on-premise infrastructure.
