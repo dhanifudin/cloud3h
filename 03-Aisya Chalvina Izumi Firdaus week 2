@@ -1,0 +1,47 @@
+Layanan cloud computing dapat dikategorikan menjadi3 yaitu SaaS, PaaS dan IaaS.
+OCI Core Services covers 5 things:
+1. Compute
+- OCI Compute Service (Computing Service) consists of 5 components are bare metal, dedicated virtual host, virtual machines, container engines and functions. Getting to the right
+There is less that the user needs to deal with.
+
+2. Storage
+-There are 5 storage services supported byOCI is block volume, local NVME, file storage,object storage and archive storage.
+
+3. Networking
+- A VCN is a network owned by your VM.
+- VCN is an Infrastructures as a Service (IaaS) service.
+- VCN allows users to set up existing networks in
+cloud environment. In this case, we can set the IP address,
+create subnets and route tables, also configure firewalls.
+Some of the components contained in VCN, namely: 
+• Subnets 
+• Route Table 
+• Security List 
+• Internet Gateway 
+• Nat Gateway 
+• Service Gateway 
+• Dynamic Router Gateway
+
+4. Identity and Access Management (IAM)
+- IAM (Identity and Access Management) lets you control
+who has access to the cloud resources you have, and the types of
+access to what they have, and to certain resources. 
+An IAM policy is a document that determines who and how to
+Which can be used to access resources. 
+• Group and compartment level access is granted, which means you can
+write policies that give certain types of access in groups and 
+Use a specific compartment. 
+Compartment is a collection of interrelated resources that help
+You need to determine the access to the resources you have.
+
+5. Cloud Service Database
+- OCI has a choice of Oracle Cluster Databases, also known as Oracle Cluster Databases.
+As Real Application Clusters, or RAC, have become
+options for managing high availability and performance
+for more than 20 years.
+• OCI also offers the Exadata DB system, which offers
+Extreme performance for Online Transaction Processing (OLTP)
+Or a data warehouse application.
+• OCI's latest invention is autonomous database.
+
+
